@@ -9,10 +9,10 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: jdieramon/bookdown-start
+github-repo: jdieramon/introR4DS
 twitter-handle: jdieramon
-url: 'http\://bookdown.org/josev_die/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+url: 'http\://bookdown.org/josev_die/introR4DS/'
+description: Material del curso "Introducción al Analisis de Datos con R" (Instituto de Estudios de Psotgrado, Universidad de Córdoba).
 ---
 
 
