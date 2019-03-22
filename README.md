@@ -1,7 +1,7 @@
 
 ## Introducción a R para el Análisis de Datos
 
-Puedes encontrar la vista previa de este libro en el siguiente enlace :  http\://bookdown.org/josev_die/bookdown-start/  
+Puedes encontrar la vista previa de este libro en el siguiente enlace :  https://bookdown.org/josev_die/introR4DS/
 
 La web del curso se encuentra en este enlace : https://jdieramon.github.io/CursoAnalisisDatos/    
   
